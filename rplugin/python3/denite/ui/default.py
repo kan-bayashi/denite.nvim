@@ -210,7 +210,7 @@ class Default(object):
             'concealcursor': 'n',
             'cursorcolumn': False,
             'foldenable': False,
-            'foldcolumn': 0,
+            'foldcolumn': "0",
             'list': False,
             'number': False,
             'relativenumber': False,
